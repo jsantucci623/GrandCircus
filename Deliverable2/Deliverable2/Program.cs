@@ -5,16 +5,13 @@
 
 {
     bool validpeople = false;
-   // bool choice = false;
     int people;
     int largeLemonade = 0;
     int largeWater = 0;
     double buffet = 9.99;
     double lemonade = 0.00;
     double total;
-    string water = "free";
-
-
+ 
     Console.WriteLine("Hi. Welcome to our Buffet. All you can eat for $9.99!  We only charge extra ");
     Console.WriteLine("for lemonade.  How many people are in your group?  Please parties of 6 or lower.");
     while (validpeople == false)

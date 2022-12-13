@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsantucci\\source\\repos\\Deliverable2\\Deliverable2\\Deliverable2.csproj": {}
+    "C:\\Users\\jsantucci\\OneDrive - Knex\\GrandCircus\\source\\repos\\Deliverable2\\Deliverable2\\Deliverable2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsantucci\\source\\repos\\Deliverable2\\Deliverable2\\Deliverable2.csproj": {
+    "C:\\Users\\jsantucci\\OneDrive - Knex\\GrandCircus\\source\\repos\\Deliverable2\\Deliverable2\\Deliverable2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsantucci\\source\\repos\\Deliverable2\\Deliverable2\\Deliverable2.csproj",
+        "projectUniqueName": "C:\\Users\\jsantucci\\OneDrive - Knex\\GrandCircus\\source\\repos\\Deliverable2\\Deliverable2\\Deliverable2.csproj",
         "projectName": "Deliverable2",
-        "projectPath": "C:\\Users\\jsantucci\\source\\repos\\Deliverable2\\Deliverable2\\Deliverable2.csproj",
+        "projectPath": "C:\\Users\\jsantucci\\OneDrive - Knex\\GrandCircus\\source\\repos\\Deliverable2\\Deliverable2\\Deliverable2.csproj",
         "packagesPath": "C:\\Users\\jsantucci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jsantucci\\source\\repos\\Deliverable2\\Deliverable2\\obj\\",
+        "outputPath": "C:\\Users\\jsantucci\\OneDrive - Knex\\GrandCircus\\source\\repos\\Deliverable2\\Deliverable2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
